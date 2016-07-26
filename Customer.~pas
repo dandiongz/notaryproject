@@ -1,0 +1,24 @@
+unit Customer;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs;
+
+type
+  TfCustomer = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  fCustomer: TfCustomer;
+
+implementation
+
+{$R *.dfm}
+
+end.

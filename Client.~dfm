@@ -1,0 +1,16 @@
+object fClient: TfClient
+  Left = 376
+  Top = 139
+  Width = 771
+  Height = 570
+  Caption = 'fClient'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Arial'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 16
+end
